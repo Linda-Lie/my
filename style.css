@@ -1,0 +1,70 @@
+html{
+    background-color: DarkSlateGray;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+}
+body{
+    margin: 0;
+}
+.menu{
+    overflow: hidden;
+    background-color: rgb(172, 236, 215);
+}
+.menu a{
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 23px;
+}
+.menu a.active{
+    background-color: DarkSlateGray;
+    color: white;
+}
+#menu-logo{
+    float: left;
+    padding-left: 10%;
+    color: black;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#indextext{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#picture{
+    text-align: center;
+}
+.video{
+    text-align: center;
+}
+#videotext{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+#C-poptext{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    padding: 10px;
+}
+#C-poptext1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.K-poptext{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    padding: 10px;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+    font-size: 200%;
+    text-align: left;
+}
